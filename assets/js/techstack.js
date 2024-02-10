@@ -25,11 +25,6 @@ const techStack = [
     langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
   },
   {
-    langImage: "assets/images/techstack-page/python.png",
-    langName: "Python",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
-  },
-  {
     langImage: "assets/images/techstack-page/cpp.png",
     langName: "C++",
     langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
@@ -53,6 +48,51 @@ const techStack = [
     langImage:"assets/images/techstack-page/c.png",
     langName:"C",
     langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/sql.jpeg",
+    langName:"Structural Query Language",
+    langDesc:"<li>SQL (Structured Query Language) is a standard programming language used for managing and manipulating relational databases, enabling tasks such as data retrieval, insertion, updating, and deletion, as well as defining and modifying database schema.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/oops.jpeg",
+    langName:"Object Oriented Programming Language",
+    langDesc:"<li>Object-Oriented Programming (OOP) is a programming paradigm that models software components as 'objects,' which encapsulate data and behavior, promoting modularity, reusability, and maintainability in software development.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/mongo.jpeg",
+    langName:"MongoDB",
+    langDesc:"<li>MongoDB is a flexible, scalable NoSQL database solution that facilitates the storage and retrieval of unstructured data, offering high performance and easy scalability for modern application development.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/java.jpeg",
+    langName:"Java",
+    langDesc:"<li>Java is a versatile, object-oriented programming language renowned for its portability, performance, and extensive ecosystem, powering everything from enterprise applications to mobile and web development.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/express.jpeg",
+    langName:"Express",
+    langDesc:"<li>Express.js is a minimalist and flexible Node.js web application framework that simplifies the process of building powerful and scalable web applications.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/dsa.jpeg",
+    langName:"Data Structures and Algorithms",
+    langDesc:"<li>DSA (Data Structures and Algorithms) are fundamental tools for efficient problem-solving in computer science.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/dead.jpeg",
+    langName:"Operating Systems",
+    langDesc:"<li>Operating systems serve as the intermediary between hardware and software, managing resources and providing a user-friendly interface for efficient computer operation.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/dbms.jpeg",
+    langName:"DataBase Management Systems",
+    langDesc:"<li>DBMS (Database Management Systems) organize and manage data efficiently, ensuring secure storage, retrieval, and manipulation for various applications.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/cn.jpeg",
+    langName:"Computer Networks",
+    langDesc:"<li>Computer networks enable the exchange of data and resources between devices, facilitating communication and collaboration on a global scale.</li>"
   },
 ];
 
