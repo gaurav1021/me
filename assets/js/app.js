@@ -438,7 +438,7 @@ $(window).on("load", function () {
   setTimeout(function () {
     $(".no-scroll-preload").css("overflow", "visible");
   }, 1000);
-  $(".loader-container").fadeOut(2500);
+  $(".loader-container").fadeOut(500);
 });
 
 //send button animation
