@@ -5,10 +5,17 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/bittech.png",
-    place: "Bittech Today",
-    time: "(Aug, 2023 - Sep, 2023)",
+    title: "Software Engineer Trainee",
+    cardImage: "assets/images/experience-page/Incedo.jpg",
+    place: "Incedo Inc",
+    time: "(Jan, 2025 - Oct, 2025)",
+    desp: "<li>Spearheaded the creation of web pages using React.js, resulting in a 30% increase in average user engagement metrics</li> <li>Collaborated with design and content teams to integrate information, contributing to a 20% enhancement in page views</li> <li>Conducted comprehensive testing, identifying and rectifying potential issues, achieving a 95% bug-free deployment rate</li> <li>Actively contributed innovative ideas in team meetings, fostering a culture of continuous improvement and ideation</li>",
+  },
+  {
+    title: "Founding Engineer",
+    cardImage: "assets/images/experience-page/trishna.jpg",
+    place: "Trishna",
+    time: "(Apr, 2024 - Jan, 2025)",
     desp: "<li>Spearheaded the creation of web pages using React.js, resulting in a 30% increase in average user engagement metrics</li> <li>Collaborated with design and content teams to integrate information, contributing to a 20% enhancement in page views</li> <li>Conducted comprehensive testing, identifying and rectifying potential issues, achieving a 95% bug-free deployment rate</li> <li>Actively contributed innovative ideas in team meetings, fostering a culture of continuous improvement and ideation</li>",
   },
   {
