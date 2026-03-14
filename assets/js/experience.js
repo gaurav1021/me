@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/Incedo.jpg",
     place: "Incedo Inc",
     time: "(Jan, 2025 - Oct, 2025)",
-    desp: "<li>Spearheaded the creation of web pages using React.js, resulting in a 30% increase in average user engagement metrics</li> <li>Collaborated with design and content teams to integrate information, contributing to a 20% enhancement in page views</li> <li>Conducted comprehensive testing, identifying and rectifying potential issues, achieving a 95% bug-free deployment rate</li> <li>Actively contributed innovative ideas in team meetings, fostering a culture of continuous improvement and ideation</li>",
+    desp: "<li>Designed and developed an iOS application for internal employees management from scratch.</li> <li>Developed various functionality and features of the company's internal web portal.</li>",
   },
   {
     title: "Founding Engineer",
     cardImage: "assets/images/experience-page/trishna.jpg",
     place: "Trishna",
     time: "(Apr, 2024 - Jan, 2025)",
-    desp: "<li>Spearheaded the creation of web pages using React.js, resulting in a 30% increase in average user engagement metrics</li> <li>Collaborated with design and content teams to integrate information, contributing to a 20% enhancement in page views</li> <li>Conducted comprehensive testing, identifying and rectifying potential issues, achieving a 95% bug-free deployment rate</li> <li>Actively contributed innovative ideas in team meetings, fostering a culture of continuous improvement and ideation</li>",
+    desp: "<li>Built 8+ end-to-end web and automation software solutions based on client requirements.</li> <li>Led client acquisition pipelines and improved lead conversion by 60%.</li>",
   },
   {
     title: "Software Developer Intern",
